@@ -1,1 +1,1 @@
-# eCommerce_logdata_analysis
+# eCommerce_weblog_analysis
