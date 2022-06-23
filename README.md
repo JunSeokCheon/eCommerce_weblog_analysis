@@ -5,3 +5,4 @@
 
 1. 데이터 전처리 - eCommerce_weblog_preprocessing.ipynb
 2. 데이터 분석 & 시각화
+3. 간단한 데이터 모델링
