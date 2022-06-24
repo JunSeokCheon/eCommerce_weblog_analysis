@@ -4,5 +4,5 @@
 ---
 
 1. 데이터 전처리 - eCommerce_weblog_preprocessing.ipynb
-2. 데이터 분석 & 시각화 - eCommerce_weblog_analysis.ipynb, 
+2. 데이터 분석 & 시각화 - eCommerce_weblog_analysis.ipynb, eCommerce_weblog_RFManalysis
 3. 데이터 모델링
